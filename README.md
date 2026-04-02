@@ -33,4 +33,4 @@ This project is a SQL-based Payroll Management System designed to manage employe
 - Employee categorization
 - 
 ## 📸 Output Screenshot
-![Payroll System Output](images/output.png)
+![Payroll System Output](output.png)
