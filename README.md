@@ -31,3 +31,6 @@ This project is a SQL-based Payroll Management System designed to manage employe
 - Department-wise salary analysis
 - Net salary calculation
 - Employee categorization
+- 
+## 📸 Output Screenshot
+![Payroll System Output](images/output.png)
